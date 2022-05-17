@@ -29,6 +29,36 @@ Inline-style:
 
 2. Задание
 
+Задача не простая... попытался сделать как надо, что то не получилось 
+
+Манифесты: 
+Inline-style: 
+![alt text](https://github.com/Andrey-netology/13.1/blob/main/front.JPG "Logo Title Text 1")
+
+Inline-style: 
+![alt text](https://github.com/Andrey-netology/13.1/blob/main/back.JPG "Logo Title Text 1")
+
+Inline-style: 
+![alt text](https://github.com/Andrey-netology/13.1/blob/main/db1.JPG "Logo Title Text 1")
+
+Inline-style: 
+![alt text](https://github.com/Andrey-netology/13.1/blob/main/db2.JPG "Logo Title Text 1")
+
+Результат запуска: 
+
+Inline-style: 
+![alt text](https://github.com/Andrey-netology/13.1/blob/main/11.JPG "Logo Title Text 1")
+
+Inline-style: 
+![alt text](https://github.com/Andrey-netology/13.1/blob/main/22.JPG "Logo Title Text 1")
+
+Inline-style: 
+![alt text](https://github.com/Andrey-netology/13.1/blob/main/33.JPG "Logo Title Text 1")
+
+Inline-style: 
+![alt text](https://github.com/Andrey-netology/13.1/blob/main/44.JPG "Logo Title Text 1")
+
+
 
 
 
