@@ -20,14 +20,17 @@ Inline-style:
 
 После этого пишем манифесты для Кубера: 
 
-frontend
+Манифест frontend: 
+
 Inline-style: 
 ![alt text](https://github.com/Andrey-netology/13.1/blob/main/frontend.JPG "Logo Title Text 1")
 
-backend 
+Манифест backend:
+
 Inline-style: 
 ![alt text](https://github.com/Andrey-netology/13.1/blob/main/backend.JPG "Logo Title Text 1")
-DB 
+
+Манифест DB: 
 Inline-style: 
 ![alt text](https://github.com/Andrey-netology/13.1/blob/main/db2.JPG "Logo Title Text 1")
 
